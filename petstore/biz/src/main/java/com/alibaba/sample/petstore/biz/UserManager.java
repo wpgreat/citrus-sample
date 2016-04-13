@@ -59,4 +59,5 @@ public interface UserManager {
     void  seeHello(String name);
 
     void sayHi(String name);
+    void Demo1(String name);
 }
