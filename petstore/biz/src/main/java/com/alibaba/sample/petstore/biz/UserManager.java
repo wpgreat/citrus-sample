@@ -60,4 +60,6 @@ public interface UserManager {
 
     void sayHi(String name);
     void Demo1(String name);
+
+    boolean test1(boolean bool);
 }

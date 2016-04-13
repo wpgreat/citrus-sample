@@ -78,6 +78,23 @@ public class UserManagerImpl implements UserManager {
     public User getUser(String userId) {
         return userDao.getUserById(userId);
     }
+
+    public void seeHello(String name) {
+
+    }
+
+    public void sayHi(String name) {
+
+    }
+
+    public void Demo1(String name) {
+
+    }
+
+    public boolean test1(boolean bool) {
+        return false;
+    }
+
     public void sayHello(String userId) {
         System.out.print("sss");
     }
