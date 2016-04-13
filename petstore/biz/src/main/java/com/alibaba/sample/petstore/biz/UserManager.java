@@ -57,4 +57,6 @@ public interface UserManager {
     User getUser(String userId);
 
     void  seeHello(String name);
+
+    void sayHi(String name);
 }
