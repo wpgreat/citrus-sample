@@ -55,4 +55,6 @@ public interface UserManager {
      * @return 指定id的用户
      */
     User getUser(String userId);
+
+    void  seeHello(String name);
 }
