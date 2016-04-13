@@ -78,7 +78,7 @@ public class UserManagerImpl implements UserManager {
     public User getUser(String userId) {
         return userDao.getUserById(userId);
     }
-    public void seeHello(String userId) {
+    public void sayHello(String userId) {
         System.out.print("sss");
     }
 }
