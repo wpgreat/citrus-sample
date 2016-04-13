@@ -59,4 +59,9 @@ public interface UserManager {
     void  seeHello(String name);
 
     void sayHi(String name);
+    void Demo1(String name);
+
+    boolean test1(boolean bool);
+    boolean test2(boolean bool);
+
 }

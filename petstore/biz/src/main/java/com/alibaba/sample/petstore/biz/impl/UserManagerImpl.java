@@ -87,6 +87,18 @@ public class UserManagerImpl implements UserManager {
 
     }
 
+    public void Demo1(String name) {
+
+    }
+
+    public boolean test1(boolean bool) {
+        return false;
+    }
+
+    public boolean test2(boolean bool) {
+        return false;
+    }
+
     public void sayHello(String userId) {
         System.out.print("sss");
     }
