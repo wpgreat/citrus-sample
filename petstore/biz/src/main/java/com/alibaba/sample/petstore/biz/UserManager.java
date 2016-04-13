@@ -62,4 +62,6 @@ public interface UserManager {
     void Demo1(String name);
 
     boolean test1(boolean bool);
+    boolean test2(boolean bool);
+
 }

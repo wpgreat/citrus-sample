@@ -95,6 +95,10 @@ public class UserManagerImpl implements UserManager {
         return false;
     }
 
+    public boolean test2(boolean bool) {
+        return false;
+    }
+
     public void sayHello(String userId) {
         System.out.print("sss");
     }
